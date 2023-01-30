@@ -31,6 +31,30 @@
       "type": "income",
       "createdAt": "2023-01-29T22:31:36.956Z",
       "id": 4
+    },
+    {
+      "description": "Aluguel",
+      "price": 1200,
+      "category": "casa",
+      "type": "outcome",
+      "createdAt": "2023-01-30T07:38:22.619Z",
+      "id": 5
+    },
+    {
+      "description": "Risk of rain 2",
+      "price": 60,
+      "category": "Entretenimento",
+      "type": "outcome",
+      "createdAt": "2023-01-30T07:41:06.751Z",
+      "id": 6
+    },
+    {
+      "description": "Conta de água",
+      "price": 150,
+      "category": "Casa",
+      "type": "outcome",
+      "createdAt": "2023-01-30T07:43:08.029Z",
+      "id": 7
     }
   ]
 }
