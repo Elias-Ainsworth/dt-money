@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 
+
 export const TransactionsContainer = styled.main`
   width: 100%;
   max-width: 1120px;
@@ -35,4 +36,10 @@ export const PriceHighlight = styled.span<PriceHighlightProps>`
     props.variant === 'income'
       ? props.theme['green-300']
       : props.theme['red-300']};
+`
+
+export const TransactionPaginateFooter = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 `
